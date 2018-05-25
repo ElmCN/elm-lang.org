@@ -15,14 +15,23 @@ community = """
 # Community
 
   * [Community Packages](http://package.elm-lang.org/)
+  * [Discourse][discourse]
   * [Reddit][reddit]
   * [Slack][slack]
   * [Twitter][twitter]
   * [Real Life][real-life]
-  * [Mailing list][list]
   * [Contributing](#contribute)
 
 <br>
+
+
+## Discourse
+
+[discourse]: https://discourse.elm-lang.org/ "Discourse"
+
+[Discourse][discourse] is a nice place to ask questions, request
+feedback on your ideas, and show off what you're working on. It is the
+successor to [elm-discuss on Google Groups][list].
 
 
 ## Reddit
@@ -78,17 +87,6 @@ the Elm user group in SF. A lot of existing meetups are structured based on
 
 [real-life]: https://www.elmlog.com/meetup_groups
 [hack-night]: http://tech.noredink.com/post/142283641812/designing-meetups-to-build-better-communities
-
-
-## Mailing list
-
-[list]: https://groups.google.com/forum/?fromgroups#!forum/elm-discuss "elm-discuss"
-
-The [elm-discuss][list] mailing list is the original online forum for Elm. We
-used to do all discussion there, from beginner questions to language design
-discussions. These days it is in between [/r/elm](https://www.reddit.com/r/elm/)
-and [elm-dev](https://groups.google.com/d/msg/elm-dev/oZ3xW_nMPNo/0y8j-N8HCQAJ).
-There are some people (and their expertise) only available through email!
 
 
 ## Contribute
